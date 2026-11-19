@@ -1,0 +1,72 @@
+﻿[
+    {
+        "file":  "tbilisi.jpg",
+        "title":  "File:Old Tbilisi town in Tbilisi, Georgia.jpg",
+        "artist":  "GeoO",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3AOld%20Tbilisi%20town%20in%20Tbilisi%2C%20Georgia.jpg"
+    },
+    {
+        "file":  "batumi.jpg",
+        "title":  "File:Batumi Plage.jpg",
+        "artist":  "Alsandro",
+        "license":  "CC BY-SA 3.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3ABatumi%20Plage.jpg"
+    },
+    {
+        "file":  "kazbegi.jpg",
+        "title":  "File:Facade of Gergeti Trinity Church - Outside Kazbegi - Georgia (18388470490).jpg",
+        "artist":  "Adam Jones from Kelowna, BC, Canada",
+        "license":  "CC BY-SA 2.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3AFacade%20of%20Gergeti%20Trinity%20Church%20-%20Outside%20Kazbegi%20-%20Georgia%20(18388470490).jpg"
+    },
+    {
+        "file":  "sighnaghi.jpg",
+        "title":  "File:Church of Saint George (Sighnaghi) 01.jpg",
+        "artist":  "Bernard Gagnon",
+        "license":  "CC BY 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3AChurch%20of%20Saint%20George%20(Sighnaghi)%2001.jpg"
+    },
+    {
+        "file":  "mtskheta.jpg",
+        "title":  "File:2017 - Svetitskhoveli Cathedral - 01.jpg",
+        "artist":  "Moahim",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3A2017%20-%20Svetitskhoveli%20Cathedral%20-%2001.jpg"
+    },
+    {
+        "file":  "kamchatka-volcano.jpg",
+        "title":  "File:Kamchatka Kamchatka Landscape (17539395548).jpg",
+        "artist":  "kuhnmi",
+        "license":  "CC BY 2.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3AKamchatka%20Kamchatka%20Landscape%20(17539395548).jpg"
+    },
+    {
+        "file":  "kamchatka-geysers.jpg",
+        "title":  "File:Smouldering valley of geysers (53160752870).jpg",
+        "artist":  "Kandukuru Nagarjun from Bangalore, India",
+        "license":  "CC BY 2.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3ASmouldering%20valley%20of%20geysers%20(53160752870).jpg"
+    },
+    {
+        "file":  "kamchatka-bear.jpg",
+        "title":  "File:Kamchatka Brown Bear near Dvuhyurtochnoe on 2015-07-23.jpg",
+        "artist":  "Robert F. Tobler",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3AKamchatka%20Brown%20Bear%20near%20Dvuhyurtochnoe%20on%202015-07-23.jpg"
+    },
+    {
+        "file":  "kamchatka-bay.jpg",
+        "title":  "File:Admiralty Chart No 1040 Avatcha (Avacha) Bay, Published 1833.jpg",
+        "artist":  "United Kingdom Hydrographic Office",
+        "license":  "Public domain",
+        "source":  "https://commons.wikimedia.org/wiki/File%3AAdmiralty%20Chart%20No%201040%20Avatcha%20(Avacha)%20Bay%2C%20Published%201833.jpg"
+    },
+    {
+        "file":  "kamchatka-beach.jpg",
+        "title":  "File:Surfing on the Halaktyr beach of Kamchatka Peninsula.jpg",
+        "artist":  "tanysolovey",
+        "license":  "CC BY-SA 2.0",
+        "source":  "https://commons.wikimedia.org/wiki/File%3ASurfing%20on%20the%20Halaktyr%20beach%20of%20Kamchatka%20Peninsula.jpg"
+    }
+]
